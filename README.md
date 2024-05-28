@@ -23,9 +23,17 @@ Overall, this project aims to leverage data analysis to create a more informed a
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- This case study explores loan data from a consumer finance company. We'll be working with the loan.csv
-- Our Mission: Uncover the key factors influencing loan defaults. This analysis will equip the company to make informed decisions for risk assessment and portfolio management.
--This case study is part of the EDA module for the upGrad & IIITB Machine Learning & AI Program (February 2024 batch).
+This project focuses on developing a data-driven model to predict the demand for BoomBikes, a shared bike service, in the US market.
+
+## Mission:
+- Develop a demand prediction model: This model will analyze various factors influencing bike rentals and predict the number of bikes needed at different times.
+- Optimize BoomBikes' operations: By understanding demand patterns, BoomBikes can make informed decisions about:
+    Docking station placement: Strategically placing stations in high-demand areas.
+Pricing: Adjusting pricing based on predicted demand fluctuations.
+Marketing: Launching targeted marketing campaigns to reach potential customers.
+Gain market insights: Analyze overall demand trends to understand the US shared bike market dynamics. This knowledge can be valuable for:
+Entering new markets: Identifying areas with high potential for bike sharing services.
+Expanding existing services: Making data-driven decisions about expanding services in current markets.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
