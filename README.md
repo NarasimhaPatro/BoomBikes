@@ -16,6 +16,7 @@ Overall, this project aims to leverage data analysis to create a more informed a
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Mission](#Mission)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -34,11 +35,10 @@ This project focuses on developing a data-driven model to predict the demand for
 - Gain market insights: Analyze overall demand trends to understand the US shared bike market dynamics. This knowledge can be valuable for:
     - Entering new markets: Identifying areas with high potential for bike sharing services.
     - Expanding existing services: Making data-driven decisions about expanding services in current markets.
-
-## Overall Goals:
-- Increase revenue: By catering to customer demand more effectively.
-- Reduce costs: By optimizing resource allocation based on predictions.
-- Gain a competitive edge: By offering a service that is more responsive to customer needs and market trends.
+- Overall Goals:
+    - Increase revenue: By catering to customer demand more effectively.
+    - Reduce costs: By optimizing resource allocation based on predictions.
+    - Gain a competitive edge: By offering a service that is more responsive to customer needs and market trends.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
