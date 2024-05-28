@@ -53,7 +53,7 @@ This project focuses on developing a data-driven model to predict the demand for
 3. Based on the R^2 and adjusted R^2 result of the test and train data set we can say this model is good because the difference between the R^2 is less than 5%
 
 ## Final Equation
-- y = 0.2519 + 0.4515 * temperature + 0.2341 * year_2019 + 0.0577 * month_Sep + 0.0473 * season_winter - 0.0727 * month_Jul - 0.0811 * weathersit_mist & cloudy - 0.0986 * holiday - 0.1108 * season_spring - 0.1398 * windspeed - 0.2864 * weathersit_light rain & snow
+- y = `0.2519` + `0.4515` * temperature + `0.2341` * year_2019 + `0.0577` * month_Sep + `0.0473` * season_winter - `0.0727` * month_Jul - `0.0811` * weathersit_mist & cloudy - `0.0986` * holiday - `0.1108` * season_spring - `0.1398` * windspeed - `0.2864` * weathersit_light rain & snow
 
 ## Interpretation of the Final Equation
 1. **Temperature (0.4515)**:
