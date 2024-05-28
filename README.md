@@ -17,7 +17,7 @@ Overall, this project aims to leverage data analysis to create a more informed a
 ## Table of Contents
 * [General Info](#general-information)
 * [Mission](#Mission)
-* [Result of the Test and Train Data Set](Result-of-the-Test-and-Train-Data-Set)
+* [Final Result](Final-Result)
 * [Final Equation](#Final-Equation)
 * [Interpretation of the Final Equation](#Interpretation-of-the-Final-Equation)
 * [Overall Insights](#Overall-Insights)
@@ -43,7 +43,7 @@ This project focuses on developing a data-driven model to predict the demand for
     - Reduce costs: By optimizing resource allocation based on predictions.
     - Gain a competitive edge: By offering a service that is more responsive to customer needs and market trends.
 
-## Result of the Test and Train Data Set
+## Final Result
 1. Test Data:
   * R^2 value - `0.8070101019557963`
   * Adjusted R^2 value - `0.7977317414729018`
