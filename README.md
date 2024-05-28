@@ -1,11 +1,19 @@
 # BoomBikes
 > Objective
-- Identifying Risk Factors: The primary goal is to identify consumer and loan attributes that significantly influence the likelihood of loan default. This involves examining patterns and correlations within the data to pinpoint variables that serve as strong indicators of default risk.
-- Risk Mitigation: By understanding the driving factors behind loan default, the company aims to develop strategies to mitigate credit risk. This could include refining its lending criteria, adjusting interest rates, or implementing other risk management measures to minimize financial losses associated with defaulting borrowers.
-- Portfolio Optimization: Insight gained from EDA can inform portfolio optimization strategies. By identifying and managing riskier loan applicants more effectively, the company can optimize its loan portfolio to improve overall profitability and sustainability.
-- Enhancing Risk Assessment Models: The findings from the analysis can be used to enhance existing risk assessment models or develop new predictive models for more accurate identification of high-risk applicants. This can improve the company's ability to make informed decisions regarding loan approvals and reduce instances of default.
-- Business Decision Support: Ultimately, the objective is to provide actionable insights that support strategic decision-making within the company. This may involve recommending specific actions such as adjusting lending policies, reallocating resources, or implementing targeted marketing strategies to mitigate risk and improve - overall loan performance.
-- Outcome: By achieving these objectives, the company aims to enhance its ability to identify and manage credit risk effectively, ultimately leading to improved financial performance and sustainable growth in the competitive consumer finance market.
+The objective of this project is to develop a model that can predict the demand for shared bikes offered by BoomBikes in the US market. This model will be used to:
+
+1. **Identify significant factors:** Understand which factors from the available data significantly impact the demand for shared bikes.
+2. **Predict demand:** Predict the number of bike rentals based on the identified factors. This will help BoomBikes anticipate demand fluctuations and optimize their operations.
+3. **Improve business strategy:** Use the insights from the model to develop a data-driven business strategy. This could involve strategically placing docking stations, adjusting pricing based on demand forecasts, and launching targeted marketing campaigns.
+4. **Understand market dynamics:** Gain insights into the overall demand patterns for shared bikes in the US market. This knowledge can be valuable when entering new markets or expanding existing services.
+
+By achieving these objectives, BoomBikes can:
+
+* **Increase revenue:** By understanding and meeting customer demand more effectively.
+* **Reduce costs:** By optimizing resource allocation based on predicted demand.
+* **Gain a competitive edge:** By offering a service that is more responsive to customer needs.
+
+Overall, this project aims to leverage data analysis to create a more informed and successful business model for BoomBikes in the post-pandemic US market.
 
 ## Table of Contents
 * [General Info](#general-information)
