@@ -43,7 +43,7 @@ This project focuses on developing a data-driven model to predict the demand for
     - Reduce costs: By optimizing resource allocation based on predictions.
     - Gain a competitive edge: By offering a service that is more responsive to customer needs and market trends.
 
-## Final Result
+## Result of the Test and Train Data set
 1. Test Data:
   * R^2 value - `0.8070101019557963`
   * Adjusted R^2 value - `0.7977317414729018`
