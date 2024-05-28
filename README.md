@@ -1,6 +1,5 @@
 # BoomBikes
-> Objective
-The objective of this project is to develop a model that can predict the demand for shared bikes offered by BoomBikes in the US market. This model will be used to:
+> Objective - The objective of this project is to develop a model that can predict the demand for shared bikes offered by BoomBikes in the US market. This model will be used to:
 
 1. **Identify significant factors:** Understand which factors from the available data significantly impact the demand for shared bikes.
 2. **Predict demand:** Predict the number of bike rentals based on the identified factors. This will help BoomBikes anticipate demand fluctuations and optimize their operations.
