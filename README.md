@@ -28,12 +28,17 @@ This project focuses on developing a data-driven model to predict the demand for
 ## Mission:
 - Develop a demand prediction model: This model will analyze various factors influencing bike rentals and predict the number of bikes needed at different times.
 - Optimize BoomBikes' operations: By understanding demand patterns, BoomBikes can make informed decisions about:
-    Docking station placement: Strategically placing stations in high-demand areas.
-Pricing: Adjusting pricing based on predicted demand fluctuations.
-Marketing: Launching targeted marketing campaigns to reach potential customers.
-Gain market insights: Analyze overall demand trends to understand the US shared bike market dynamics. This knowledge can be valuable for:
-Entering new markets: Identifying areas with high potential for bike sharing services.
-Expanding existing services: Making data-driven decisions about expanding services in current markets.
+    - Docking station placement: Strategically placing stations in high-demand areas.
+    - Pricing: Adjusting pricing based on predicted demand fluctuations.
+    - Marketing: Launching targeted marketing campaigns to reach potential customers.
+- Gain market insights: Analyze overall demand trends to understand the US shared bike market dynamics. This knowledge can be valuable for:
+    - Entering new markets: Identifying areas with high potential for bike sharing services.
+    - Expanding existing services: Making data-driven decisions about expanding services in current markets.
+
+## Overall Goals:
+- Increase revenue: By catering to customer demand more effectively.
+- Reduce costs: By optimizing resource allocation based on predictions.
+- Gain a competitive edge: By offering a service that is more responsive to customer needs and market trends.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
