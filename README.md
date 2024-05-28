@@ -17,6 +17,7 @@ Overall, this project aims to leverage data analysis to create a more informed a
 ## Table of Contents
 * [General Info](#general-information)
 * [Mission](#Mission)
+* [Result of the Test and Train Data Set](Result-of-the-Test-and-Train-Data-Set)
 * [Final Equation](#Final-Equation)
 * [Interpretation of the Final Equation](#Interpretation-of-the-Final-Equation)
 * [Overall Insights](#Overall-Insights)
